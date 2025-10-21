@@ -58,3 +58,5 @@ export default function ImageSimilaritySearch({
     </>
   );
 }
+
+{/* Commit 2: improve UI for similarity search (by Nam) */}

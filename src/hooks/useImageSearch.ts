@@ -43,3 +43,7 @@ export default function useImageSearch(searchParameters: SearchParams) {
 
   return { hits, fetchNextPage, isLoading, isLastPage, isNoResults };
 }
+
+// Commit 1: setup similarity search logic (by Nam)
+
+// Commit 3: refactor and optimize search logic (by Nam)
