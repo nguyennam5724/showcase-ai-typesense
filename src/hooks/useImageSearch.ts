@@ -45,3 +45,5 @@ export default function useImageSearch(searchParameters: SearchParams) {
 }
 
 // Commit 1: setup similarity search logic (by Nam)
+
+// Commit 3: refactor and optimize search logic (by Nam)
