@@ -26,3 +26,5 @@ export default function ImageSearchUsingTextDescriptions() {
     />
   );
 }
+
+{/* Commit 1: setup text input for image search (by Long) */}
