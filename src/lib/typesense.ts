@@ -12,3 +12,5 @@ export const typesense = new Typesense.Client({
   connectionTimeoutSeconds: 60 * 60,
 });
 
+
+// Commit 2: integrate Typesense for text queries (by Long)
